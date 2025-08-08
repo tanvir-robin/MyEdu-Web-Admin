@@ -95,11 +95,6 @@ npm start
 
 ---
 
-## 📸 UI Preview
-
-> *(Include screenshots or demo GIF here if available)*
-
----
 
 ## 🙋‍♂️ About Me
 
