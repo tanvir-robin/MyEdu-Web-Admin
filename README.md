@@ -13,6 +13,14 @@ Built using **React**, integrated with **Firebase** and **SSLCommerz**, this das
 
 ---
 
+## 📱 Main Mobile App
+
+This repository is the **Admin Panel** for the **MyEdu** university management system.  
+The main **MyEdu** mobile app, which students and faculty use, is available here:  
+[https://github.com/tanvir-robin/myedu](https://github.com/tanvir-robin/myedu)
+
+---
+
 ## 🧩 Key Features
 
 - **📊 Dashboard Overview** – Total students, faculty, courses, and departments
